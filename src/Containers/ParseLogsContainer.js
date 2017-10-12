@@ -14,7 +14,7 @@ export class ParseLogsContainer extends React.Component {
     }
 
     componentDidMount() {
-        this.readTextFile("./data/altchars.txt");
+        this.readTextFile("/dist/data/altchars.txt");
     }
 
     readTextFile = file => {
