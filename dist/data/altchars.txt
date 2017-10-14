@@ -16,7 +16,7 @@ Beagod	Beacyborg	Beasaint	Beashadow
 Binousse
 Bitterness	Bitterfrost	Greego
 Blayzee	Swayzee
-Blork	Hexonxonx
+Hexonxonx	Blork	
 Bolthan	Bolthans	 iplay	Iheal
 Brinae
 Brinni	Izzle	Xiss
@@ -28,8 +28,9 @@ Cellsius
 Conner	Gnomezz	Uncle
 Crumblebone
 Daalziel
-Danni	Kela	Misstey	Whistler	Eerieca	Faya
+Danni	Kela	Misstey	Whistler	Eerieca	Faya Cothington comere callenyou
 Daolian	Storemann
+Darkrico
 Deekaey	Yizo
 Deebs	Daxs	Raeshae
 Derik	Gnukem	Sekar	Slowlie Dybal
@@ -61,17 +62,17 @@ Gogogoo
 Gonkedor Nazhara
 Grayhair	Blackhair	Deathhair	Sarika
 Grimloth	Blackbark	Gimley
-Gzaz	Daddies	Scrot
+Gzaz	Daddies	Scrot pieni
 Healzrus	Noawi
 Heilig
 Helle
-Plump	Hitgirl	Bigdaddy	Kaptajn
+Plump	Bigdaddy	
 Hollyroller	Nahzahntor
 Igaton	Kemko
 Irke	Rugin
 Kaeden
 Kahoni
-Kalrimki
+Kalrimki	Aldurim
 Kampfisk Fisk
 Karius
 Karsea Mauton	Raato
@@ -79,14 +80,14 @@ Keikoo	Ridas
 Kimura	Zilbus
 Klerikes
 Kreel	Elrik	Korintas
-Lihakilpi	Galamin	Paappa
+Lihakilpi	Galamin	Paappa	Marmeli
 Littlepoe
 Llodka
 Loimu	Apostoli
 Loorin  Lohii Lorrin
 Luciella	Bloodric
 Luftballonen
-Maggers    Barkmender    Bonkk	Mccoy	Kirkk
+Maggers    Barkmender    Bonkk Mccoy Kirkk
 Maltus	Maldrick
 Marmite
 Mastapeck
@@ -100,7 +101,7 @@ Muaddiib	Adren
 Murmeli	   Fatsnack	Pate	Perkula
 Mystifystica	Brombi
 Mythanor
-Mythrill	Sspectre
+Mythrill Sspectre
 Nags
 Nandor
 Narve	Stekarn
@@ -159,7 +160,7 @@ Thyra	Quingu
 Tiendha
 Tihi	Veja
 Tineea	Talzu
-Tomtom	Kuemmermich	Elanora	Trackme
+Tomtom	Kuemmermich	Elanora	Trackme	Aemezz
 Trarin	Hugenkiss	Daoldar
 Tuffast	Vafan
 Tussion  Gomar
@@ -181,7 +182,7 @@ Yasma	Agoka
 Ylina	Kelderec
 Yuufi
 Zain	Xvim
-Zarus
+Zarus    Kaptajn   Hitgirl
 Zoomie	Quilly
 Zrab	Hardoo	Glaudio
 Zzap	Doze	Rezzie Zzenn
