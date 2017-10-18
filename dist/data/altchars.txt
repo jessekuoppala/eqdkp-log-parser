@@ -23,7 +23,7 @@ Brinni	Izzle	Xiss
 Buman	Imuman
 Cadrak
 Caitlin
-Cele	Achoo	Cayn	Cyne	Olof
+Cele	Achoo	Cayn	Cyne	Olof	Cahlan
 Cellsius
 Conner	Gnomezz	Uncle
 Crumblebone
@@ -180,7 +180,7 @@ Xondar
 Yala	Teladur
 Yasma	Agoka 
 Ylina	Kelderec
-Yuufi
+Yuufi       Ruufi
 Zain	Xvim
 Zarus    Kaptajn   Hitgirl
 Zoomie	Quilly
