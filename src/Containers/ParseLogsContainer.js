@@ -216,6 +216,12 @@ export class ParseLogsContainer extends React.Component {
         let itemName = "";
         let dkpAmount = "";
 
+        dataArray = dataArray.sort((a, b) => {
+            let aD = Date(a.substring(1, 25));
+            let bD = Date(b.substring(1, 25));
+            return a < b ? -1 : a > b ? 1 : 0;
+        });
+
         dataArray.map((line, index) => {
 
             // Time check
