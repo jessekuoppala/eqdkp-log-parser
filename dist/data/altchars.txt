@@ -1,4 +1,5 @@
 Aaror
+Achoo Cele	Cayn	Cyne	Olof	Cahlan
 Aconite	Ultear	Droods
 Aelyn
 Alea	Valion	Nyther
@@ -15,15 +16,15 @@ Barbarella
 Beagod	Beacyborg	Beasaint	Beashadow
 Binousse
 Bitterness	Bitterfrost	Greego
+Blastingberry
 Blayzee	Swayzee
 Hexonxonx	Blork	
-Bolthan	Bolthans	 iplay	Iheal
+Bolthan	Bolthans	 Iplay	Iheal
 Brinae
 Brinni	Izzle	Xiss
 Buman	Imuman
 Cadrak
 Caitlin
-Cele	Achoo	Cayn	Cyne	Olof	Cahlan
 Cellsius
 Conner	Gnomezz	Uncle
 Crumblebone
@@ -62,14 +63,15 @@ Gogogoo
 Gonkedor Nazhara
 Grayhair	Blackhair	Deathhair	Sarika
 Grimloth	Blackbark	Gimley
-Gzaz	Daddies	Scrot pieni
+Gylain
 Healzrus	Noawi
 Heilig
 Helle
 Plump	Bigdaddy	
 Hollyroller	Nahzahntor
-Igaton	Kemko
+Igaton	Kemko Yakisuki
 Irke	Rugin
+Jakobe
 Kaeden
 Kahoni
 Kalrimki	Aldurim
@@ -105,6 +107,7 @@ Mythrill Sspectre
 Nags
 Nandor
 Narve	Stekarn
+Nattevaak
 Necromicon	Waymar
 Neglak	Alastria
 Neumaz
@@ -120,6 +123,7 @@ Perfect	Sudden
 Phalange	Sepulcre
 Phinny
 Phizzel
+Pieni Gzaz	Daddies	Scrot 
 Piil
 Pikey induction
 Pipa	Winilania
@@ -127,22 +131,24 @@ Preacher	Magicae	Mesmerizer	Nocts	Tanks
 Psykolog
 Quzz
 Ramoen
-Redweiler
+Redweiler Mozaic
 Relius
 Rezme	Gnomlars	Sabeltann	Tanakaz	Yarrd
 Riggs	Maguk	Mcbuff
 Ronkedorf	Donkedor
-Rowyl Kelsiferous
+Rowyl Kelsiferous Equifinis
 Ruban
 Saaril	Jeeperz
 Shille
 Shrike	Scorned
 Sifka	Yazra	Draka
+Sinhuit
 Situbusit
 Skygge
 Slackro
 Smogdul Domareck
 Smujj
+Solthen
 Somis	Kailleigh
 Ssins
 Starbelly	Plainbelly	Vlair	Galphus
