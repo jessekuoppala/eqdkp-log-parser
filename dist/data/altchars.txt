@@ -4,7 +4,6 @@ Aconite	Ultear	Droods
 Aelyn
 Alea	Valion	Nyther
 Albien
-Aldred Mirella
 Alibaba
 Archen
 Arcus	Seductivemind	Shambulancee	Vulcan
@@ -18,7 +17,6 @@ Binousse
 Bitterness	Bitterfrost	Greego
 Blastingberry
 Blayzee	Swayzee
-Hexonxonx	Blork	
 Bolthan	Bolthans	 Iplay	Iheal
 Brinae
 Brinni	Izzle	Xiss
@@ -29,12 +27,12 @@ Cellsius
 Conner	Gnomezz	Uncle
 Crumblebone
 Daalziel
-Danni	Kela	Misstey	Whistler	Eerieca	Faya Cothington comere callenyou
+Danni	Kela	Misstey	Whistler	Eerieca	Faya Cothington Comere Callenyou
 Daolian	Storemann
 Darkrico
 Deekaey	Yizo
 Deebs	Daxs	Raeshae
-Derik	Gnukem	Sekar	Slowlie Dybal
+Derik	Gnukem	Sekar	Slowlie Dybal	Leadan	Gnobbie
 Dimsumm	Yuvo
 Doei
 Doliprane Kyushi
@@ -54,27 +52,27 @@ Flamme
 Siphar	Fluff	Siwang
 Fonkedor
 Frangi	Loofal
-Galning
 Gamrokk	Epon
 Gebrohzz
 Geckro
 Gnomecry	Gnomewoman
 Gogogoo
-Gonkedor Nazhara
+Gonkedor Nazhara	Markfirben	Skovfirben
 Grayhair	Blackhair	Deathhair	Sarika
 Grimloth	Blackbark	Gimley
 Gylain
 Healzrus	Noawi
 Heilig
 Helle
+Hexonxonx	Blork	Plutt
 Plump	Bigdaddy	
-Hollyroller	Nahzahntor
+Hollyroller	Nahzahntor  Forrenn
 Igaton	Kemko Yakisuki
 Irke	Rugin
-Jakobe
+Jakobe Jakbard
 Kaeden
-Kahoni
-Kalrimki	Aldurim
+Kahoni	Miluriel
+Kalrimki	Aldurim	Kalhar
 Kampfisk Fisk
 Karius
 Karsea Mauton	Raato
@@ -84,9 +82,10 @@ Klerikes
 Kreel	Elrik	Korintas
 Lihakilpi	Galamin	Paappa	Marmeli
 Littlepoe
+Llayeni
 Llodka
 Loimu	Apostoli
-Loorin  Lohii Lorrin
+Loorin  Lohii Lorrin	Veermi	Tessomat
 Luciella	Bloodric
 Luftballonen
 Maggers    Barkmender    Bonkk Mccoy Kirkk
@@ -103,8 +102,8 @@ Muaddiib	Adren
 Murmeli	   Fatsnack	Pate	Perkula
 Mystifystica	Brombi
 Mythanor
-Mythrill Sspectre
-Nags
+Mythrill Sspectre	Dobber
+Nags  Negs
 Nandor
 Narve	Stekarn
 Nattevaak
@@ -112,7 +111,6 @@ Necromicon	Waymar
 Neglak	Alastria
 Neumaz
 Nicolo	Sinadin
-Nimly
 Nomis	Blistered	Girder	Nobber	Relaxed
 Nuitare
 Nymphetamine
@@ -120,6 +118,7 @@ Obsidienne
 Otters	Yarn
 Peckmasta	Bamboo
 Perfect	Sudden
+Perspective
 Phalange	Sepulcre
 Phinny
 Phizzel
@@ -127,16 +126,16 @@ Pieni Gzaz	Daddies	Scrot
 Piil
 Pikey induction
 Pipa	Winilania
-Preacher	Magicae	Mesmerizer	Nocts	Tanks
+Preacher  Mesmerizer Nocts Tanks Magicae Magicah Cackling
 Psykolog
 Quzz
 Ramoen
 Redweiler Mozaic
 Relius
 Rezme	Gnomlars	Sabeltann	Tanakaz	Yarrd
-Riggs	Maguk	Mcbuff
+Riggs	Galning  Maguk	Mcbuff 
 Ronkedorf	Donkedor
-Rowyl Kelsiferous Equifinis
+Rowyl Kelsiferous Equifinis Korafax
 Ruban
 Saaril	Jeeperz
 Shille
@@ -146,7 +145,7 @@ Sinhuit
 Situbusit
 Skygge
 Slackro
-Smogdul Domareck
+Smogdul	Domareck	Aldred	Mirella
 Smujj
 Solthen
 Somis	Kailleigh
@@ -161,6 +160,7 @@ Teclis
 Temjin
 Tharnoth
 Thess
+Thingul
 Thunderpig	Mylittlepony
 Thyra	Quingu
 Tiendha
@@ -185,7 +185,7 @@ Xebbert
 Xondar
 Yala	Teladur
 Yasma	Agoka 
-Ylina	Kelderec
+Ylina	Kelderec Wagan
 Yuufi       Ruufi
 Zain	Xvim
 Zarus    Kaptajn   Hitgirl
