@@ -6,7 +6,7 @@ Alea	Valion	Nyther
 Albien
 Alibaba
 Archen
-Arcus	Seductivemind	Shambulancee	Vulcan
+Arcus	Seductivemind	Shambulancee	Vulcan   Elfviss
 Artarian	Aldranoth	Nilander
 Azenda	Elsie
 Backbeat
@@ -24,6 +24,7 @@ Buman	Imuman
 Cadrak
 Caitlin
 Cellsius
+Charitana
 Conner	Gnomezz	Uncle
 Crumblebone
 Daalziel
@@ -36,7 +37,7 @@ Derik	Gnukem	Sekar	Slowlie Dybal	Leadan	Gnobbie
 Dimsumm	Yuvo
 Doei
 Doliprane Kyushi
-Drekan	Sethdor
+Drekan	Sethdor	Sirdark
 Eegnite	Miiyagi
 Elleve
 Ehlara
@@ -56,7 +57,7 @@ Gamrokk	Epon
 Gebrohzz
 Geckro
 Gnomecry	Gnomewoman
-Gogogoo
+Gogogoo	Grogogoo
 Gonkedor Nazhara	Markfirben	Skovfirben
 Grayhair	Blackhair	Deathhair	Sarika
 Grimloth	Blackbark	Gimley
@@ -67,7 +68,6 @@ Helle
 Hexonxonx	Blork	Plutt
 Plump	Bigdaddy	
 Hollyroller	Nahzahntor  Forrenn
-Igaton	Kemko Yakisuki
 Irke	Rugin
 Jakobe Jakbard
 Kaeden
@@ -85,7 +85,7 @@ Littlepoe
 Llayeni
 Llodka
 Loimu	Apostoli
-Loorin  Lohii Lorrin	Veermi	Tessomat
+Loorin  Lohii Lorrin	Veermi	Tessomat Lorin
 Luciella	Bloodric
 Luftballonen
 Maggers    Barkmender    Bonkk Mccoy Kirkk
@@ -94,6 +94,7 @@ Marmite
 Mastapeck
 Merduun	Werden
 Meistuff Legreedy Gavn 
+Moff Kaunis Sarii
 Mihung	Cian
 Millux
 Monolithe	Morgus
@@ -101,12 +102,12 @@ Motani
 Muaddiib	Adren
 Murmeli	   Fatsnack	Pate	Perkula
 Mystifystica	Brombi
-Mythanor
+Mythanor  Mythano
 Mythrill Sspectre	Dobber
 Nags  Negs
 Nandor
 Narve	Stekarn
-Nattevaak
+Nattevaak	Morgengym
 Necromicon	Waymar
 Neglak	Alastria
 Neumaz
@@ -133,7 +134,7 @@ Ramoen
 Redweiler Mozaic
 Relius
 Rezme	Gnomlars	Sabeltann	Tanakaz	Yarrd
-Riggs	Galning  Maguk	Mcbuff 
+Riggs	Galning  Maguk	Mcbuff  Undergang
 Ronkedorf	Donkedor
 Rowyl Kelsiferous Equifinis Korafax
 Ruban
@@ -155,6 +156,7 @@ Stily
 Superman
 Supermodel	Methodical	Empirical
 Suzanne
+Tallak
 Tarscales
 Teclis
 Temjin
@@ -166,7 +168,7 @@ Thyra	Quingu
 Tiendha
 Tihi	Veja
 Tineea	Talzu
-Tomtom	Kuemmermich	Elanora	Trackme	Aemezz
+Tomtom	Kuemmermich	Elanora	Trackme	Aemezz  Care
 Trarin	Hugenkiss	Daoldar
 Tuffast	Vafan
 Tussion  Gomar
@@ -185,6 +187,7 @@ Xebbert
 Xondar
 Yala	Teladur
 Yasma	Agoka 
+Yakisuki Igaton Kemko
 Ylina	Kelderec Wagan
 Yuufi       Ruufi
 Zain	Xvim
