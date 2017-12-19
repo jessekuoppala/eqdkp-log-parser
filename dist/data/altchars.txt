@@ -1,3 +1,4 @@
+Aaarrg	Tosset	Xingin
 Aaror
 Achoo Cele	Cayn	Cyne	Olof	Cahlan
 Aconite	Ultear	Droods
@@ -5,7 +6,7 @@ Aelyn
 Alea	Valion	Nyther
 Albien
 Alibaba
-Archen
+Archen	Zephinos
 Arcus	Seductivemind	Shambulancee	Vulcan   Elfviss
 Artarian	Aldranoth	Nilander
 Azenda	Elsie
@@ -15,11 +16,11 @@ Barbarella
 Beagod	Beacyborg	Beasaint	Beashadow
 Binousse
 Bitterness	Bitterfrost	Greego
+Blak
 Blastingberry
 Blayzee	Swayzee
-Bolthan	Bolthans	 Iplay	Iheal
+Bolthan	Irod 	 Iplay	Iheal itank
 Brinae
-Brinni	Izzle	Xiss
 Buman	Imuman
 Cadrak
 Caitlin
@@ -30,9 +31,9 @@ Crumblebone
 Daalziel
 Danni	Kela	Misstey	Whistler	Eerieca	Faya Cothington Comere Callenyou
 Daolian	Storemann
-Darkrico
-Deekaey	Yizo
-Deebs	Daxs	Raeshae
+Darkrico	Cohrico
+Deekaey	Yizo Wolftoes
+Deebs	Daxs	Raeshae	Caxio
 Derik	Gnukem	Sekar	Slowlie Dybal	Leadan	Gnobbie
 Dimsumm	Yuvo
 Doei
@@ -45,6 +46,7 @@ Ethoz
 Fandangy
 Fantastik
 Fede
+Feefifofum
 Felka
 Fhirg	Murgo	Thirg
 Finumbus	Bashu	Beanstalk	Slapu
@@ -53,7 +55,7 @@ Flamme
 Siphar	Fluff	Siwang
 Fonkedor
 Frangi	Loofal
-Gamrokk	Epon
+Gamrokk	Epon  Thurinor
 Gebrohzz
 Geckro
 Gnomecry	Gnomewoman
@@ -69,6 +71,7 @@ Hexonxonx	Blork	Plutt
 Plump	Bigdaddy	
 Hollyroller	Nahzahntor  Forrenn
 Irke	Rugin
+Izzle	Xiss	Brinni   Gabe
 Jakobe Jakbard
 Kaeden
 Kahoni	Miluriel
@@ -80,10 +83,10 @@ Keikoo	Ridas
 Kimura	Zilbus
 Klerikes
 Kreel	Elrik	Korintas
-Lihakilpi	Galamin	Paappa	Marmeli
+Lihakilpi	Galamin	Paappa	Marmeli	Mantik
 Littlepoe
 Llayeni
-Llodka
+Llodka	Fufinski
 Loimu	Apostoli
 Loorin  Lohii Lorrin	Veermi	Tessomat Lorin
 Luciella	Bloodric
@@ -91,7 +94,7 @@ Luftballonen
 Maggers    Barkmender    Bonkk Mccoy Kirkk
 Maltus	Maldrick
 Marmite
-Mastapeck
+Mastapeck paladinmasta
 Merduun	Werden
 Meistuff Legreedy Gavn 
 Moff Kaunis Sarii
@@ -100,21 +103,20 @@ Millux
 Monolithe	Morgus
 Motani
 Muaddiib	Adren
-Murmeli	   Fatsnack	Pate	Perkula
+Murmeli	   Fatsnack	Pate	Perkula	Saakura	Ulla	Weewoo
 Mystifystica	Brombi
 Mythanor  Mythano
-Mythrill Sspectre	Dobber
-Nags  Negs
+Mythrill Sspectre	Dobber  Allegro
+Nags  Negs  Nigs	Mags
 Nandor
 Narve	Stekarn
-Nattevaak	Morgengym
+Nattevaak	Morgengym Ulfhednar morgenlys
 Necromicon	Waymar
 Neglak	Alastria
 Neumaz
 Nicolo	Sinadin
 Nomis	Blistered	Girder	Nobber	Relaxed
 Nuitare
-Nymphetamine
 Obsidienne
 Otters	Yarn
 Peckmasta	Bamboo
@@ -127,7 +129,7 @@ Pieni Gzaz	Daddies	Scrot
 Piil
 Pikey induction
 Pipa	Winilania
-Preacher  Mesmerizer Nocts Tanks Magicae Magicah Cackling
+Preacher  Mesmerizer Nocts Bloated Magicae Magicah Cackling
 Psykolog
 Quzz
 Ramoen
@@ -139,6 +141,8 @@ Ronkedorf	Donkedor
 Rowyl Kelsiferous Equifinis Korafax
 Ruban
 Saaril	Jeeperz
+Seric	Ulio Jagnar
+Sensenmann	Druidika	Druidica	Feuerteufel	Feuerhexe	Sanitaeter	Charmebolzen	Feldarzt
 Shille
 Shrike	Scorned
 Sifka	Yazra	Draka
@@ -146,6 +150,7 @@ Sinhuit
 Situbusit
 Skygge
 Slackro
+Smellyfeet
 Smogdul	Domareck	Aldred	Mirella
 Smujj
 Solthen
@@ -156,10 +161,11 @@ Stily
 Superman
 Supermodel	Methodical	Empirical
 Suzanne
+Sweed	Abrahem
 Tallak
 Tarscales
 Teclis
-Temjin
+Temjin Cenotiv
 Tharnoth
 Thess
 Thingul
@@ -168,11 +174,10 @@ Thyra	Quingu
 Tiendha
 Tihi	Veja
 Tineea	Talzu
-Tomtom	Kuemmermich	Elanora	Trackme	Aemezz  Care
+Tomtom	Kuemmermich	Elanora	Trackme 	Aemezz  Care Lorle
 Trarin	Hugenkiss	Daoldar
 Tuffast	Vafan
 Tussion  Gomar
-Ulio
 Velk
 Vika	Ursh	Dari
 Vilael	Gelert	Mongy	Valjean
@@ -186,7 +191,7 @@ Xarma	Xarmini	Zarma	Zacrinax	Zacrinaz
 Xebbert
 Xondar
 Yala	Teladur
-Yasma	Agoka 
+Yasma	Agoka	Kinoma
 Yakisuki Igaton Kemko
 Ylina	Kelderec Wagan
 Yuufi       Ruufi
