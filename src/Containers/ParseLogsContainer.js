@@ -78,6 +78,7 @@ export class ParseLogsContainer extends React.Component {
                 {value: "Old Sebilis", label: "Old Sebilis"},
                 {value: "Permafrost", label: "Permafrost"},
                 {value: "Plane of Fear", label: "Plane of Fear"},
+                {value: "Plane of Growth", label: "Plane of Growth"},
                 {value: "Plane of Hate", label: "Plane of Hate"},
                 {value: "Plane of Sky", label: "Plane of Sky"},
                 {value: "Skyfire Mountains", label: "Skyfire Mountains"},
@@ -89,6 +90,7 @@ export class ParseLogsContainer extends React.Component {
                 {value: "Western Wastes", label: "Western Wastes"},
                 {value: "Dragon Necropolis", label: "Dragon Necropolis"},
                 {value: "Sleeper&#39;s Tomb", label: "Sleeper&#39;s Tomb"},
+                {value: "Western Wastes", label: "Western Wastes"},
             ],
             selectedZones: [],
             member: {
