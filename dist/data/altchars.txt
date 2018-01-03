@@ -13,13 +13,13 @@ Azenda	Elsie
 Backbeat
 Bamsefar Belvar
 Barbarella
-Beagod	Beacyborg	Beasaint	Beashadow
+Beagod	Beacyborg	Beasaint	Beashadow	Beacorpse
 Binousse
 Bitterness	Bitterfrost	Greego
 Blak
 Blastingberry
 Blayzee	Swayzee
-Bolthan	Irod 	 Iplay	Iheal itank
+Bolthan	Irod 	 Iplay	Iheal Itank
 Brinae
 Buman	Imuman
 Cadrak
@@ -30,11 +30,11 @@ Conner	Gnomezz	Uncle
 Crumblebone
 Daalziel
 Danni	Kela	Misstey	Whistler	Eerieca	Faya Cothington Comere Callenyou
-Daolian	Storemann
+Daolian	Storemann Trollmannen
 Darkrico	Cohrico
 Deekaey	Yizo Wolftoes
 Deebs	Daxs	Raeshae	Caxio
-Derik	Gnukem	Sekar	Slowlie Dybal	Leadan	Gnobbie
+Derik	Gnukem	Sekar	Slowlie Dybal	Leadan	Gnobbie Kireh
 Dimsumm	Yuvo
 Doei
 Doliprane Kyushi
@@ -62,7 +62,7 @@ Gnomecry	Gnomewoman
 Gogogoo	Grogogoo
 Gonkedor Nazhara	Markfirben	Skovfirben
 Grayhair	Blackhair	Deathhair	Sarika
-Grimloth	Blackbark	Gimley
+Grimloth	Blackbark	Gimley Pricc
 Gylain
 Healzrus	Noawi
 Heilig
@@ -73,7 +73,7 @@ Hollyroller	Nahzahntor  Forrenn
 Irke	Rugin
 Izzle	Xiss	Brinni   Gabe
 Jakobe Jakbard
-Kaeden
+Kaeden Gruzzle
 Kahoni	Miluriel
 Kalrimki	Aldurim	Kalhar
 Kampfisk Fisk
@@ -83,6 +83,7 @@ Keikoo	Ridas
 Kimura	Zilbus
 Klerikes
 Kreel	Elrik	Korintas
+Kruska	Kanjana Gutdabar Zagazorak
 Lihakilpi	Galamin	Paappa	Marmeli	Mantik
 Littlepoe
 Llayeni
@@ -105,7 +106,7 @@ Motani
 Muaddiib	Adren
 Murmeli	   Fatsnack	Pate	Perkula	Saakura	Ulla	Weewoo
 Mystifystica	Brombi
-Mythanor  Mythano
+Mythanor  Mythano	Mythawor
 Mythrill Sspectre	Dobber  Allegro
 Nags  Negs  Nigs	Mags
 Nandor
@@ -133,8 +134,8 @@ Preacher  Mesmerizer Nocts Bloated Magicae Magicah Cackling
 Psykolog
 Quzz
 Ramoen
-Redweiler Mozaic
-Relius
+Redweiler Mozaic	Cellucore
+Relius Razex
 Rezme	Gnomlars	Sabeltann	Tanakaz	Yarrd
 Riggs	Galning  Maguk	Mcbuff  Undergang
 Ronkedorf	Donkedor
@@ -145,11 +146,11 @@ Seric	Ulio Jagnar
 Sensenmann	Druidika	Druidica	Feuerteufel	Feuerhexe	Sanitaeter	Charmebolzen	Feldarzt
 Shille
 Shrike	Scorned
-Sifka	Yazra	Draka
 Sinhuit
 Situbusit
 Skygge
 Slackro
+Sleet
 Smellyfeet
 Smogdul	Domareck	Aldred	Mirella
 Smujj
@@ -159,7 +160,7 @@ Ssins
 Starbelly	Plainbelly	Vlair	Galphus
 Stily
 Superman
-Supermodel	Methodical	Empirical
+Supermodel	Methodical	Empirical Subere
 Suzanne
 Sweed	Abrahem
 Tallak
@@ -174,13 +175,14 @@ Thyra	Quingu
 Tiendha
 Tihi	Veja
 Tineea	Talzu
-Tomtom	Kuemmermich	Elanora	Trackme 	Aemezz  Care Lorle
+Tomtom	Kuemmermich	Elanora	Trackme 	Aemezz  Care Lorle Canthold
 Trarin	Hugenkiss	Daoldar
 Tuffast	Vafan
 Tussion  Gomar
 Velk
 Vika	Ursh	Dari
 Vilael	Gelert	Mongy	Valjean
+Waii
 Waria
 Warllok
 Wawaka
@@ -193,6 +195,7 @@ Xondar
 Yala	Teladur
 Yasma	Agoka	Kinoma
 Yakisuki Igaton Kemko
+Yazra  Sifka	Draka
 Ylina	Kelderec Wagan
 Yuufi       Ruufi
 Zain	Xvim
