@@ -19,7 +19,7 @@ Bitterness	Bitterfrost	Greego
 Blak
 Blastingberry
 Blayzee	Swayzee
-Bolthan	Irod 	 Iplay	Iheal Itank
+Bolthan	Irod 	 Iplay	Iheal itank
 Brinae
 Buman	Imuman
 Cadrak
@@ -33,7 +33,7 @@ Danni	Kela	Misstey	Whistler	Eerieca	Faya Cothington Comere Callenyou
 Daolian	Storemann Trollmannen
 Darkrico	Cohrico
 Deekaey	Yizo Wolftoes
-Deebs	Daxs	Raeshae	Caxio
+Deebs	Daxs	Raeshae	Caxio	Rashio
 Derik	Gnukem	Sekar	Slowlie Dybal	Leadan	Gnobbie Kireh
 Dimsumm	Yuvo
 Doei
@@ -52,7 +52,7 @@ Fhirg	Murgo	Thirg
 Finumbus	Bashu	Beanstalk	Slapu
 Fireandice
 Flamme
-Siphar	Fluff	Siwang
+Siwang Siphar	Fluff	
 Fonkedor
 Frangi	Loofal
 Gamrokk	Epon  Thurinor
@@ -73,7 +73,7 @@ Hollyroller	Nahzahntor  Forrenn
 Irke	Rugin
 Izzle	Xiss	Brinni   Gabe
 Jakobe Jakbard
-Kaeden Gruzzle
+Kaeden Gruzzle	Aldros
 Kahoni	Miluriel
 Kalrimki	Aldurim	Kalhar
 Kampfisk Fisk
@@ -108,7 +108,7 @@ Murmeli	   Fatsnack	Pate	Perkula	Saakura	Ulla	Weewoo
 Mystifystica	Brombi
 Mythanor  Mythano	Mythawor
 Mythrill Sspectre	Dobber  Allegro
-Nags  Negs  Nigs	Mags
+Nags  Negs	Mags
 Nandor
 Narve	Stekarn
 Nattevaak	Morgengym Ulfhednar morgenlys
@@ -137,7 +137,8 @@ Ramoen
 Redweiler Mozaic	Cellucore
 Relius Razex
 Rezme	Gnomlars	Sabeltann	Tanakaz	Yarrd
-Riggs	Galning  Maguk	Mcbuff  Undergang
+Riggs    Maguk	Mcbuff  Undergang
+Risengrave
 Ronkedorf	Donkedor
 Rowyl Kelsiferous Equifinis Korafax
 Ruban
@@ -150,6 +151,7 @@ Sinhuit
 Situbusit
 Skygge
 Slackro
+Slayden
 Sleet
 Smellyfeet
 Smogdul	Domareck	Aldred	Mirella
@@ -163,7 +165,7 @@ Superman
 Supermodel	Methodical	Empirical Subere
 Suzanne
 Sweed	Abrahem
-Tallak
+Tallak	Bionix
 Tarscales
 Teclis
 Temjin Cenotiv
@@ -180,6 +182,7 @@ Trarin	Hugenkiss	Daoldar
 Tuffast	Vafan
 Tussion  Gomar
 Velk
+Vendayr
 Vika	Ursh	Dari
 Vilael	Gelert	Mongy	Valjean
 Waii
@@ -200,6 +203,7 @@ Ylina	Kelderec Wagan
 Yuufi       Ruufi
 Zain	Xvim
 Zarus    Kaptajn   Hitgirl
-Zoomie	Quilly
+Zoomie	Quilly	Zoomling
 Zrab	Hardoo	Glaudio
 Zzap	Doze	Rezzie Zzenn
+Zzlickiezz
