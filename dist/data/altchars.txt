@@ -2,6 +2,7 @@ Aaarrg	Tosset	Xingin
 Aaror
 Achoo Cele	Cayn	Cyne	Olof	Cahlan
 Aconite	Ultear	Droods
+Aeam
 Aelyn
 Alea	Valion	Nyther
 Albien
@@ -10,19 +11,17 @@ Archen	Zephinos
 Arcus	Seductivemind	Shambulancee	Vulcan   Elfviss
 Artarian	Aldranoth	Nilander
 Azenda	Elsie
-Backbeat
 Bamsefar Belvar
 Barbarella
-Beagod	Beacyborg	Beasaint	Beashadow	Beacorpse
+Beagod	Beacyborg	Beasaint	Beashadow	Beacorpse Dancing
 Binousse
 Bitterness	Bitterfrost	Greego
 Blak
 Blastingberry
 Blayzee	Swayzee
-Bolthan	Irod 	 Iplay	Iheal itank
+Bolthan	Irod 	 Iplay	Iheal Itank
 Brinae
 Buman	Imuman
-Cadrak
 Caitlin
 Cellsius
 Charitana
@@ -32,12 +31,12 @@ Daalziel
 Danni	Kela	Misstey	Whistler	Eerieca	Faya Cothington Comere Callenyou
 Daolian	Storemann Trollmannen
 Darkrico	Cohrico
-Deekaey	Yizo Wolftoes
+Deekaey	Yizo Wolftoes Birdie Rhee
 Deebs	Daxs	Raeshae	Caxio	Rashio
 Derik	Gnukem	Sekar	Slowlie Dybal	Leadan	Gnobbie Kireh
 Dimsumm	Yuvo
+Dinkit
 Doei
-Doliprane Kyushi
 Drekan	Sethdor	Sirdark
 Eegnite	Miiyagi
 Elleve
@@ -46,36 +45,34 @@ Ethoz
 Fandangy
 Fantastik
 Fede
-Feefifofum
-Felka
 Fhirg	Murgo	Thirg
 Finumbus	Bashu	Beanstalk	Slapu
 Fireandice
 Flamme
-Siwang Siphar	Fluff	
 Fonkedor
 Frangi	Loofal
 Gamrokk	Epon  Thurinor
 Gebrohzz
 Geckro
 Gnomecry	Gnomewoman
-Gogogoo	Grogogoo
 Gonkedor Nazhara	Markfirben	Skovfirben
 Grayhair	Blackhair	Deathhair	Sarika
 Grimloth	Blackbark	Gimley Pricc
 Gylain
 Healzrus	Noawi
 Heilig
+Helgaa
 Helle
 Hexonxonx	Blork	Plutt
 Plump	Bigdaddy	
 Hollyroller	Nahzahntor  Forrenn
+Incilius
 Irke	Rugin
 Izzle	Xiss	Brinni   Gabe
 Jakobe Jakbard
 Kaeden Gruzzle	Aldros
-Kahoni	Miluriel
-Kalrimki	Aldurim	Kalhar
+Kahoni
+Kalrimki	Aldurim	Kalhar Kalrimke
 Kampfisk Fisk
 Karius
 Karsea Mauton	Raato
@@ -84,10 +81,11 @@ Kimura	Zilbus
 Klerikes
 Kreel	Elrik	Korintas
 Kruska	Kanjana Gutdabar Zagazorak
+Kyyr
 Lihakilpi	Galamin	Paappa	Marmeli	Mantik
 Littlepoe
 Llayeni
-Llodka	Fufinski
+Fufinski	Llodka	
 Loimu	Apostoli
 Loorin  Lohii Lorrin	Veermi	Tessomat Lorin
 Luciella	Bloodric
@@ -108,7 +106,7 @@ Murmeli	   Fatsnack	Pate	Perkula	Saakura	Ulla	Weewoo
 Mystifystica	Brombi
 Mythanor  Mythano	Mythawor
 Mythrill Sspectre	Dobber  Allegro
-Nags  Negs	Mags
+Mags Nags  Negs
 Nandor
 Narve	Stekarn
 Nattevaak	Morgengym Ulfhednar morgenlys
@@ -118,7 +116,6 @@ Neumaz
 Nicolo	Sinadin
 Nomis	Blistered	Girder	Nobber	Relaxed
 Nuitare
-Obsidienne
 Otters	Yarn
 Peckmasta	Bamboo
 Perfect	Sudden
@@ -130,15 +127,14 @@ Pieni Gzaz	Daddies	Scrot
 Piil
 Pikey induction
 Pipa	Winilania
-Preacher  Mesmerizer Nocts Bloated Magicae Magicah Cackling
+Preacher  Mesmerizer Nocts Bloated Magicae Magicah Cackling Gademusikanten
 Psykolog
 Quzz
 Ramoen
 Redweiler Mozaic	Cellucore
-Relius Razex
+Relius Razex Resbot
 Rezme	Gnomlars	Sabeltann	Tanakaz	Yarrd
 Riggs    Maguk	Mcbuff  Undergang
-Risengrave
 Ronkedorf	Donkedor
 Rowyl Kelsiferous Equifinis Korafax
 Ruban
@@ -164,7 +160,6 @@ Stily
 Superman
 Supermodel	Methodical	Empirical Subere
 Suzanne
-Sweed	Abrahem
 Tallak	Bionix
 Tarscales
 Teclis
