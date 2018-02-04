@@ -97,7 +97,7 @@ export class ParseLogsContainer extends React.Component {
                 {value: "Umbral Plains", label: "Umbral Plains"},
                 {value: "Veeshan&#39;s Peak", label: "Veeshan's Peak"},
                 {value: "Vex Thal", label: "Vex Thal"},
-                {value: "Western Wastes", label: "Western Wastes"},
+                {value: "Western Wastes", label: "Western Wastes"}
             ],
             selectedZones: [],
             member: {
